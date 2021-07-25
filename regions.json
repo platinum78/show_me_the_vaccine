@@ -1,0 +1,10 @@
+{
+    "regions": [
+        { "region": "banghwa",      "boundsString": "126.7956521%3B37.5599734%3B126.833761%3B37.5784608" },
+        { "region": "balsan",       "boundsString": "126.8193414%3B37.5492905%3B126.8574502%3B37.5677806"},
+        { "region": "deungchon",    "boundsString": "126.8428805%3B37.5449012%3B126.8809893%3B37.5633923"},
+        { "region": "hwagok",       "boundsString": "126.8359067%3B37.522134%3B126.8740156%3B37.5406308" },
+        { "region": "sinjeong",     "boundsString": "126.8478801%3B37.5107307%3B126.8859889%3B37.5292303" },
+        { "region": "dangsan",      "boundsString": "126.8817618%3B37.5217766%3B126.9198706%3B37.5402735" }
+    ]
+}
